@@ -1,48 +1,36 @@
-<div align="center">
+<!-- ========================= -->
+<!--        HERO BANNER        -->
+<!-- ========================= -->
 
-  <h1>failxstar</h1>
-  <p><strong>Software Engineer | Open Source Contributor | Tech Enthusiast</strong></p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=FAILXSTAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
+</p>
 
-  <p>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
-  </p>
+<h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
 
-</div>
-
----
-
-### 📌 About
-
-I am a software engineer focused on building scalable web applications and developer tools. I enjoy solving complex problems, writing clean, maintainable code, and contributing to open-source software.
-
-* 🔭 Currently building: **[Project Name / Architecture]**
-* 🔬 Currently exploring: **[Technology / Topic]**
-* 🎯 Focus areas: **System Design, Distributed Systems, Full-Stack Engineering**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Python+Developer;JavaScript+Developer;Always+Building+Something+Awesome;Turning+Ideas+Into+Reality" />
+</p>
 
 ---
 
-### 🛠️ Technical Capabilities
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Go, SQL |
-| **Frameworks** | React, Next.js, Node.js, FastAPI, Tailwind CSS |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **DevOps & Cloud** | Docker, AWS, GitHub Actions, Linux |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=failxstar&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/failxstar?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/failxstar?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
+</p>
 
 ---
 
-### 📊 Engineering Metrics
+# 💎 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Designed & Maintained by <a href="https://github.com/failxstar">failxstar</a></sub>
-</div>
+```yaml
+👨‍💻 Username      : failxstar
+🚀 Role          : Full Stack Developer
+🔥 Focus         : Building modern applications
+🌱 Learning      : AI • Cloud • DevOps
+⚡ Interests     : Open Source | Automation | Cyber Security
+🎯 Goal          : Build products used by millions
+☕ Fuel          : Coffee + Music + Code
+💡 Motto         : Dream • Build • Ship
