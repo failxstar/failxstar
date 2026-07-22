@@ -1,120 +1,48 @@
-# 🌌 Welcome to My Digital Universe
-
-<img src="https://vercel.app"/>
-
-<p align="center">
-  <img src="https://herokuapp.com"/>
-</p>
-
----
-
-# 🧬 About Me
-
-<img align="right" width="350" src="https://giphy.com"/>
-
-```yaml
-name: Sivaganesh I
-role: AI & Automation Engineer / Full-Stack Web Engineer
-location: India 🇮🇳
-mission: Building futuristic digital experiences
-
-currently:
-  - Developing AI powered applications
-  - Exploring Cloud & Automation
-  - Managing Freelance AI Automation projects
-  - Creating tech content via @thesivashades
-
-superpowers:
-  - Problem Solving
-  - Full-Stack System Design
-  - Automation Strategy
-```
-
----
-
-# 🚀 My Tech Universe
-
 <div align="center">
 
-<img src="https://skillicons.dev"/>
+  <h1>failxstar</h1>
+  <p><strong>Software Engineer | Open Source Contributor | Tech Enthusiast</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+  </p>
 
 </div>
 
 ---
 
-# 🪐 Featured Projects
+### 📌 About
 
-<table>
-<tr>
-<td width="50%">
+I am a software engineer focused on building scalable web applications and developer tools. I enjoy solving complex problems, writing clean, maintainable code, and contributing to open-source software.
 
-## 🤖 AI Neural Assistant
-
-An intelligent AI automation system designed to optimize operational workflows and intelligent asset handling.
-
-**Stack**
-- Python
-- Generative AI APIs
-- Automation Hooks
-- Cloud Compute
-
-</td>
-
-<td width="50%">
-
-## 🌐 Future Web Platform
-
-A next-generation web application featuring high-speed real-time data integration and full-stack responsiveness.
-
-**Stack**
-- React / Next.js
-- Node.js
-- Tailwind CSS
-- Postgres
-
-</td>
-</tr>
-</table>
+* 🔭 Currently building: **[Project Name / Architecture]**
+* 🔬 Currently exploring: **[Technology / Topic]**
+* 🎯 Focus areas: **System Design, Distributed Systems, Full-Stack Engineering**
 
 ---
 
-# 🛰️ GitHub Analytics
+### 🛠️ Technical Capabilities
 
-<p align="center">
-
-<img width="48%" src="https://vercel.app"/>
-
-<img width="48%" src="https://vercel.app"/>
-
-</p>
-
----
-
-# 🔥 Coding Activity
-
-<p align="center">
-
-<img src="https://herokuapp.com"/>
-
-</p>
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Go, SQL |
+| **Frameworks** | React, Next.js, Node.js, FastAPI, Tailwind CSS |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **DevOps & Cloud** | Docker, AWS, GitHub Actions, Linux |
 
 ---
 
-# 🌐 Contribution Galaxy
+### 📊 Engineering Metrics
 
-<img src="https://github.com" alt="Contribution Snake Animation" onerror="this.style.display='none'"/>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://vercel.app"/>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages"/>
+</div>
 
 ---
 
-# 🧠 Currently Exploring
-
+<div align="center">
+  <sub>Designed & Maintained by <a href="https://github.com/failxstar">failxstar</a></sub>
+</div>
