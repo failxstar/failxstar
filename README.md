@@ -1,27 +1,137 @@
-# Hi there, I'm failxstar 👋
+````md
+<!-- Banner (Optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,100:00D4FF&text=Hi%20👋,%20I'm%20failxstar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-### 💫 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Language/Framework]**
-- 👯 I’m looking to collaborate on **[Open Source / Projects]**
-- 💬 Ask me about **[Your Expertise / Tech Stack]**
-- ⚡ Fun fact: **[Insert a cool or funny fact about yourself]**
+<h1 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Lifelong Learner</h1>
 
----
-
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![failxstar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=radial)
+<p align="center">
+  <a href="https://github.com/failxstar">
+    <img src="https://komarev.com/ghpvc/?username=failxstar&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/github/followers/failxstar?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/failxstar?affiliations=OWNER&style=flat-square&color=yellow" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+# 💫 About Me
+
+```yaml
+Name: failxstar
+Role: Full-Stack Developer
+Location: 🌍 Earth
+Currently Working On: 🚀 Project Name
+Learning: ⚡ Language / Framework
+Interested In: 🤝 Open Source Collaboration
+Ask Me About: 💻 Web Development, Python, JavaScript
+Fun Fact: ☕ I turn coffee into clean code.
+````
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=failxstar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=failxstar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project      | Description                 | Tech                |
+| ------------ | --------------------------- | ------------------- |
+| 🚀 Project 1 | Awesome project description | Python              |
+| 🌐 Project 2 | Web application             | React + Node.js     |
+| 🤖 Project 3 | AI/ML project               | Python + TensorFlow |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/your-handle">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/failxstar">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</p>
+```
