@@ -1,59 +1,48 @@
-
-Those fences are only for displaying Markdown as code in chat. GitHub treats everything inside them as a code block, so it won't render the images or formatting.
-
-Your `README.md` should start directly with:
-
-```md
 <div align="center">
 
-# ⚡ F A I L X S T A R ⚡
+  <h1>failxstar</h1>
+  <p><strong>Software Engineer | Open Source Contributor | Tech Enthusiast</strong></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+the+Future;Code.+Create.+Innovate." />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,30:203A43,60:2C5364,100:00F5FF&text=Welcome%20to%20My%20Universe&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+  </p>
 
 </div>
 
 ---
 
-# 🌌 Developer Dashboard
+### 📌 About
 
-```yaml
-👤 Name          : failxstar
-💻 Role          : Full Stack Developer
-🧠 Learning      : AI • Cloud • DevOps
-```
+I am a software engineer focused on building scalable web applications and developer tools. I enjoy solving complex problems, writing clean, maintainable code, and contributing to open-source software.
 
-and end with:
+* 🔭 Currently building: **[Project Name / Architecture]**
+* 🔬 Currently exploring: **[Technology / Topic]**
+* 🎯 Focus areas: **System Design, Distributed Systems, Full-Stack Engineering**
 
-```md
+---
+
+### 🛠️ Technical Capabilities
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Go, SQL |
+| **Frameworks** | React, Next.js, Node.js, FastAPI, Tailwind CSS |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **DevOps & Cloud** | Docker, AWS, GitHub Actions, Linux |
+
+---
+
+### 📊 Engineering Metrics
+
 <div align="center">
-
-### ⚡ "Build. Break. Learn. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5FF,50:203A43,100:0F2027"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages"/>
 </div>
-```
 
-**Do not** wrap the entire file in triple or quadruple backticks.
+---
 
-Also make sure:
-
-1. The repository name is **exactly** `failxstar` (matching your GitHub username).
-2. The file is named **`README.md`** (uppercase README is conventional).
-3. You're viewing the repository's main page after committing.
-
-If you'd like, I can also generate a **100% working premium `README.md`** that has been tested with GitHub rendering, including:
-- 🚀 Animated cyberpunk banner
-- 🐍 Auto-updating contribution snake
-- 📊 Live GitHub stats
-- 🌌 Glassmorphism sections
-- 💻 40+ tech icons
-- 🎵 Spotify "Now Playing"
-- ⏱️ WakaTime stats
-- 🏆 Trophy wall
-- 🔥 Animated GIF header
-- 🌠 Matrix-style footer
-
-with **no rendering issues**.
+<div align="center">
+  <sub>Designed & Maintained by <a href="https://github.com/failxstar">failxstar</a></sub>
+</div>
