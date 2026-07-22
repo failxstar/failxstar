@@ -1,36 +1,120 @@
-<!-- ========================= -->
-<!--        HERO BANNER        -->
-<!-- ========================= -->
+# 🌌 Welcome to My Digital Universe
+
+<img src="https://vercel.app"/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=FAILXSTAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
-</p>
-
-<h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Python+Developer;JavaScript+Developer;Always+Building+Something+Awesome;Turning+Ideas+Into+Reality" />
+  <img src="https://herokuapp.com"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=failxstar&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/followers/failxstar?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/failxstar?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
-</p>
+# 🧬 About Me
 
----
-
-# 💎 About Me
+<img align="right" width="350" src="https://giphy.com"/>
 
 ```yaml
-👨‍💻 Username      : failxstar
-🚀 Role          : Full Stack Developer
-🔥 Focus         : Building modern applications
-🌱 Learning      : AI • Cloud • DevOps
-⚡ Interests     : Open Source | Automation | Cyber Security
-🎯 Goal          : Build products used by millions
-☕ Fuel          : Coffee + Music + Code
-💡 Motto         : Dream • Build • Ship
+name: Sivaganesh I
+role: AI & Automation Engineer / Full-Stack Web Engineer
+location: India 🇮🇳
+mission: Building futuristic digital experiences
+
+currently:
+  - Developing AI powered applications
+  - Exploring Cloud & Automation
+  - Managing Freelance AI Automation projects
+  - Creating tech content via @thesivashades
+
+superpowers:
+  - Problem Solving
+  - Full-Stack System Design
+  - Automation Strategy
+```
+
+---
+
+# 🚀 My Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev"/>
+
+</div>
+
+---
+
+# 🪐 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Neural Assistant
+
+An intelligent AI automation system designed to optimize operational workflows and intelligent asset handling.
+
+**Stack**
+- Python
+- Generative AI APIs
+- Automation Hooks
+- Cloud Compute
+
+</td>
+
+<td width="50%">
+
+## 🌐 Future Web Platform
+
+A next-generation web application featuring high-speed real-time data integration and full-stack responsiveness.
+
+**Stack**
+- React / Next.js
+- Node.js
+- Tailwind CSS
+- Postgres
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛰️ GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://vercel.app"/>
+
+<img width="48%" src="https://vercel.app"/>
+
+</p>
+
+---
+
+# 🔥 Coding Activity
+
+<p align="center">
+
+<img src="https://herokuapp.com"/>
+
+</p>
+
+---
+
+# 🌐 Contribution Galaxy
+
+<img src="https://github.com" alt="Contribution Snake Animation" onerror="this.style.display='none'"/>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://vercel.app"/>
+
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
