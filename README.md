@@ -1,129 +1,89 @@
 ````markdown
-<!-- ========================= -->
-<!--        HERO BANNER        -->
-<!-- ========================= -->
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=FAILXSTAR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364"/>
-</p>
+# ⚡ F A I L X S T A R ⚡
 
-<h1 align="center">
-⚡ Welcome to My Digital Universe ⚡
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+the+Future;Code.+Create.+Innovate." />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Python+Developer;JavaScript+Developer;Always+Building+Something+Awesome;Turning+Ideas+Into+Reality" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,30:203A43,60:2C5364,100:00F5FF&text=Welcome%20to%20My%20Universe&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+
+</div>
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=failxstar&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/failxstar?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/failxstar?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💎 About Me
+# 🌌 Developer Dashboard
 
 ```yaml
-👨‍💻 Username      : failxstar
-
-🚀 Role          : Full Stack Developer
-
-🔥 Focus         : Building modern applications
-
-🌱 Learning      : AI • Cloud • DevOps
-
-⚡ Interests     : Open Source | Automation | Cyber Security
-
-🎯 Goal          : Build products used by millions
-
-☕ Fuel          : Coffee + Music + Code
-
-💡 Motto         : Dream • Build • Ship
+👤 Name          : failxstar
+💻 Role          : Full Stack Developer
+🧠 Learning      : AI • Cloud • DevOps
+🚀 Building      : Amazing Open Source Projects
+🌍 Location      : Earth
+🎯 Mission       : Create software that matters
+⚡ Fun Fact      : Every bug teaches something new.
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# 🛸 Tech Universe
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=javascript"/><img src="https://skillicons.dev/icons?i=typescript"/><img src="https://skillicons.dev/icons?i=react"/><img src="https://skillicons.dev/icons?i=nextjs"/><img src="https://skillicons.dev/icons?i=nodejs"/><img src="https://skillicons.dev/icons?i=express"/><img src="https://skillicons.dev/icons?i=tailwind"/><img src="https://skillicons.dev/icons?i=bootstrap"/><img src="https://skillicons.dev/icons?i=docker"/><img src="https://skillicons.dev/icons?i=kubernetes"/><img src="https://skillicons.dev/icons?i=aws"/><img src="https://skillicons.dev/icons?i=firebase"/><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=postgres"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=redis"/><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/>
 
 </p>
 
 ---
 
-# ⚡ GitHub Analytics
+# 📊 GitHub Intelligence
 
 <p align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=failxstar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 3D Metrics
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=failxstar&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=failxstar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=failxstar&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=failxstar&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=failxstar&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Snake Animation
+# 🏆 Achievement Wall
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -133,62 +93,18 @@
 
 ---
 
-# 🌌 3D Contribution Calendar
+# 🌟 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=failxstar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy Wall
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
+| 🚀 Project | 💡 Description | ⚙️ Tech |
+|------------|----------------|---------|
+| AI Assistant | Intelligent AI app | Python |
+| Portfolio | Interactive website | React |
+| Dashboard | Analytics platform | Next.js |
+| Automation | Productivity tools | Python |
 
 ---
 
-# 📊 Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=failxstar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=failxstar&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚙ Development Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=failxstar&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=failxstar&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚀 AI Project | Artificial Intelligence Application |
-| 🌐 Portfolio | Modern Personal Portfolio |
-| 📱 Mobile App | Flutter Mobile App |
-| 🤖 Automation | Python Automation Scripts |
-
----
-
-# 🌐 Connect
+# 📡 Connect
 
 <p align="center">
 
@@ -212,11 +128,11 @@
 
 ---
 
-<p align="center">
+<div align="center">
 
-## ⭐ Thanks for Visiting ⭐
+### ⚡ "Build. Break. Learn. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5FF,50:203A43,100:0F2027"/>
 
-</p>
+</div>
 ````
