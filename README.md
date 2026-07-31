@@ -9,7 +9,7 @@
 <h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Python+Developer;JavaScript+Developer;Always+Building+Something+Awesome;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;Java+Developer;JavaScript+Developer;Always+Building+Something+Awesome;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
