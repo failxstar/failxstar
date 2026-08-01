@@ -159,6 +159,25 @@ Console-based Java project implementing OOP concepts.
 </a>
 
 </p>
+# 🚀 Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/failxstar/visitor-gate-pass">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=visitor-gate-pass&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/failxstar/nexoracrew-finance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=nexoracrew-finance&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/failxstar/crime-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=crime-management-system&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
 
 ---
 
