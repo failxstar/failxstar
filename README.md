@@ -138,28 +138,6 @@ Console-based Java project implementing OOP concepts.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=algolia&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to see the animation.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/failxstar/failxstar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
