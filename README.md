@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=FAILXSTAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SIVAGANESH%20L&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
 
 <h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
