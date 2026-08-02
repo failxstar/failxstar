@@ -3,19 +3,29 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=SIVAGANESH%20L&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sivaganesh%20L&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20Student%20|%20AWS%20Cloud%20Enthusiast%20|%20Future%20Software%20Engineer&descAlignY=65&color=0:F7971E,100:A83279"/>
 </p>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=failxstar&label=Profile%20Views&color=4c6ef5&style=flat-square"/>
+
+  <a href="mailto:sivag20060525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sivag20060525%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
+    <img src="https://img.shields.io/badge/LinkedIn-Sivaganesh%20L-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+---
 
 <h1 align="center">⚡ Welcome to My Digital Universe ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Turning+Ideas+Into+Reality" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=failxstar&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/failxstar?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -90,19 +100,33 @@
 
 ### 🚪 Visitor Entry & Gate Pass Management System
 
-Secure visitor management system with authentication and role management.
+- Secure visitor management
+- Role-based authentication
+- MERN Stack
+
+---
 
 ### 💰 NexoraCrew Finance
 
-Finance dashboard with analytics, reports, and transaction management.
+- Finance dashboard
+- Analytics and reports
+- React + Node.js + MongoDB
+
+---
 
 ### 🚍 Smart Mobility & Bus Tracking
 
-Real-time tracking and notification system.
+- Real-time bus tracking
+- Live notifications
+- Route optimization
+
+---
 
 ### 🕵️ Crime Management System
 
-Console-based Java project implementing OOP concepts.
+- Java console application
+- OOP concepts
+- Collections and exception handling
 
 ---
 
@@ -148,36 +172,17 @@ Console-based Java project implementing OOP concepts.
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sivag20060525@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
-# 🚀 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/failxstar/visitor-gate-pass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=visitor-gate-pass&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/failxstar/nexoracrew-finance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=nexoracrew-finance&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/failxstar/crime-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=failxstar&repo=crime-management-system&theme=tokyonight"/>
-</a>
-
-</p>
-
----
 
 ---
 
@@ -185,6 +190,6 @@ Console-based Java project implementing OOP concepts.
 
 ## 💡 Code • Learn • Build • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A83279,50:F7971E,100:2C5364&height=120&section=footer"/>
 
 </div>
