@@ -1,135 +1,52 @@
-<h1 align="center">🌸 Hey 👋, I'm Sivaganesh L ⚡</h1>
-
-<h3 align="center">💻 B.E Information Technology Student | ☁️ AWS Enthusiast | 🚀 Full Stack Developer</h3>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Learner;Dream+•+Code+•+Create" />
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+###
 
-## ⚔️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=python" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=javascript" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=html" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=css" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=react" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=express" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=mysql" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=aws" height="60" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=docker" height="60" />
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
+###
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🚪 Project | 📝 Description |
-|:---:|:---:|
-| **Visitor Gate Pass System** | Secure visitor management system |
-| **NexoraCrew Finance** | Financial dashboard with analytics |
-| **Crime Management System** | Java OOP console project |
-| **Smart Mobility System** | Real-time bus tracking |
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 🌐 Connect With Me
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sivag20060525@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/failxstar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=failxstar&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/failxstar/failxstar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<h3 align="center">✨ Dream • Build • Ship ✨</h3>
+###
