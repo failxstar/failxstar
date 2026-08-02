@@ -167,19 +167,15 @@
 <p align="center">
 
 <a href="https://github.com/failxstar">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-failxstar-181717?style=for-the-badge&logo=github">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sivaganesh_L-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:sivag20060525@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://img.shields.io/badge/Gmail-sivag20060525@gmail.com-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
