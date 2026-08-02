@@ -1,193 +1,135 @@
-<!-- ========================================= -->
-<!--            CYBERPUNK HEADER               -->
-<!-- ========================================= -->
+<h1 align="center">🌸 Hey 👋, I'm Sivaganesh L ⚡</h1>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=FAILXSTAR&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20Future%20Engineer&descAlignY=62&color=0:0f0c29,50:302b63,100:24243e"/>
-</p>
+<h3 align="center">💻 B.E Information Technology Student | ☁️ AWS Enthusiast | 🚀 Full Stack Developer</h3>
 
-<h1 align="center">⚡ WELCOME TO MY CYBER UNIVERSE ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things;Dream+•+Build+•+Ship" />
-</p>
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=failxstar&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
-
-  <a href="mailto:sivag20060525@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-CONNECT-ff006e?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-    <img src="https://img.shields.io/badge/LINKEDIN-SIVAGANESH-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-# 👨‍💻 CYBER PROFILE
-
-```yaml
-NAME: Sivaganesh L
-
-EDUCATION:
-  - B.E Information Technology
-
-LOCATION:
-  - Tamil Nadu, India
-
-ROLE:
-  - Java Developer
-  - Full Stack Developer
-  - AWS Cloud Enthusiast
-
-CURRENTLY LEARNING:
-  - AWS Solutions Architect
-  - Docker
-  - DevOps
-  - Artificial Intelligence
-
-INTERESTS:
-  - Open Source
-  - Automation
-  - Cloud Computing
-  - Cyber Security
-
-GOAL:
-  - Become a Software Engineer
-  - Build products used by millions
-
-MOTTO:
-  - Dream • Build • Ship
-```
-
----
-
-# 🛠 TECH ARSENAL
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
-
----
-
-# 🚀 PROJECT MATRIX
-
-### 🚪 Visitor Entry & Gate Pass System
-
-🔹 Visitor authentication
-
-🔹 Role management
-
-🔹 MERN stack project
-
----
-
-### 💰 NexoraCrew Finance
-
-🔹 Financial dashboard
-
-🔹 Reports and analytics
-
-🔹 React + Node.js + MongoDB
-
----
-
-### 🚍 Smart Mobility System
-
-🔹 Real-time bus tracking
-
-🔹 Notifications
-
-🔹 Route optimization
-
----
-
-### 🕵️ Crime Management System
-
-🔹 Java console project
-
-🔹 OOP concepts
-
-🔹 Collections and exception handling
-
----
-
-# 📊 CYBER STATS
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 STREAK MATRIX
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=failxstar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 NEURAL NETWORK
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=failxstar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://github.com/failxstar">
-  <img src="https://img.shields.io/badge/GITHUB-failxstar-121212?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://img.shields.io/badge/LINKEDIN-SIVAGANESH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sivag20060525@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-CONNECT-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
+###
 
 <div align="center">
 
-## ⚡ DREAM • BUILD • SHIP ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Developer;AWS+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Learner;Dream+•+Code+•+Create" />
 
 </div>
+
+---
+
+## ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=python" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=javascript" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=html" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=css" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=react" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=express" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=mysql" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=aws" height="60" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=docker" height="60" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🚪 Project | 📝 Description |
+|:---:|:---:|
+| **Visitor Gate Pass System** | Secure visitor management system |
+| **NexoraCrew Finance** | Financial dashboard with analytics |
+| **Crime Management System** | Java OOP console project |
+| **Smart Mobility System** | Real-time bus tracking |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sivag20060525@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/failxstar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=failxstar&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=failxstar&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=failxstar&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=failxstar&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/failxstar/failxstar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">✨ Dream • Build • Ship ✨</h3>
