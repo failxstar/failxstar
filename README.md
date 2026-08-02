@@ -163,28 +163,21 @@
 ---
 
 ---
+<table align="center">
+<tr>
+<td align="center">
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-failxstar-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/failxstar)
 
-<a href="https://github.com/failxstar">
-  <img src="https://img.shields.io/badge/⚡%20GitHub-failxstar-1f2937?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sivaganesh_L-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaganesh-l-65bb45324)
 
-&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-sivag20060525%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivag20060525@gmail.com)
 
-<a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Sivaganesh%20L-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sivag20060525@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Gmail-sivag20060525%40gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" />
-</a>
-
-</p>
+</td>
+</tr>
+</table>
 
 
 ---
