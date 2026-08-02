@@ -162,23 +162,30 @@
 
 ---
 
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/failxstar">
-  <img src="https://img.shields.io/badge/GitHub-failxstar-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/⚡%20GitHub-failxstar-1f2937?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sivaganesh-l-65bb45324">
-  <img src="https://img.shields.io/badge/LinkedIn-Sivaganesh_L-0077B5?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Sivaganesh%20L-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:sivag20060525@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sivag20060525@gmail.com-D14836?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/📧%20Gmail-sivag20060525%40gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" />
 </a>
 
 </p>
+
 
 ---
 
